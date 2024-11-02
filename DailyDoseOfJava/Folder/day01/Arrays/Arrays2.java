@@ -1,4 +1,4 @@
-package com.Arrays;
+package day01.Arrays;
 import java.util.Scanner;
 
 public class Arrays2 

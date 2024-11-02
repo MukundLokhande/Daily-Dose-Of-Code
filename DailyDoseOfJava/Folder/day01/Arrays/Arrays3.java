@@ -1,4 +1,4 @@
-package com.Arrays;
+package day01.Arrays;
 
 // Linear Search
 

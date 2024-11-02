@@ -1,4 +1,4 @@
-package com.Patterns;
+package day01.Patterns;
 
 public class InvertedStar {
 	public static void main(String[] args)

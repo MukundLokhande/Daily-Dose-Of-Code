@@ -1,4 +1,4 @@
-package com.Arrays;
+package day01.Arrays;
 
 public class Array4 
 {
