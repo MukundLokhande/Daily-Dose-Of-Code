@@ -1,4 +1,4 @@
-package day07;
+package day00;
 
 public class SubArray 
 {
